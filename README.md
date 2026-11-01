@@ -1,7 +1,5 @@
 # 🌐 ffsrc.store — Free Fire Source Files, APIs & Traffic Hub
 
-Welcome to the official repository for **ffsrc.store**, the central platform for all **Free Fire** development files, source (`src`) p# 🌐 ffsrc.store — Free Fire Source Files, APIs & Traffic Hub
-
 Welcome to the official repository for **ffsrc.store**, the central platform for all **Free Fire** development files, source (`src`) packages, API integrations, network traffic resources, and trending YouTube project files.
 
 ---
